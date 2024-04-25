@@ -74,3 +74,9 @@ Baltimore ranked second as observed after the analysis with a total of 11,021 fo
 Los Angeles and Baltimore should be states for concentration by the call center as they receive more calls based on billing issues and sentiments involving turnaround time.
 
 It was observed generally across call centers in these states, that billing issues is a concern and it was the highest reason for calls across all regions and call centers closely followed by issues on payments.
+
+Los Angeles had a very positive call by sentiments which was closely followed by neutral calls.
+
+Los Angeles also had the highest percentage of negative calls. 
+
+Baltimore ranked closely second on the calls by both positive and neutral sentiments
