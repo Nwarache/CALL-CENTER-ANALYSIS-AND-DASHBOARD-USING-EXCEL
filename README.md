@@ -3,7 +3,15 @@
 TThis project and the data used was part of a case study aimed at deriving insights and to showcase the overall performance of a call center for the month of October 2020. In order to gain insights into their customer call habits, regions of frequent calls and potential areas for improvement in service delivery and overall call center experience.
 
 # Table of Contents
-[Preview of the Excel dashboard](#preview-of-the-excel-dashboard)
+- [Preview of the Excel dashboard](#preview-of-the-excel-dashboard)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Problem Statement](#problem-statement)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Building Dashboard](#building-dashboard)
+- [Questions Explored](#questions-explored)
+- [nsights and Recommendations](#insights-and-recommendations)
 
 # Preview of the Excel dashboard
 
