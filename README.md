@@ -2,12 +2,12 @@
 
 TThis project and the data used was part of a case study aimed at deriving insights and to showcase the overall performance of a call center for the month of October 2020. In order to gain insights into their customer call habits, regions of frequent calls and potential areas for improvement in service delivery and overall call center experience.
 
+# Table of Contents
+[Preview of the Excel dashboard](#preview-of-the-excel-dashboard)
+
 # Preview of the Excel dashboard
 
 ![image](https://github.com/Nwarache/CALL-CENTER-ANALYSIS-AND-DASHBOARD-USING-EXCEL/assets/161589821/891887b1-a760-4417-940f-7e5ae449a0b3)
-
-
-# Table of Contents
 
 
 # Project Overview
@@ -40,4 +40,19 @@ Excel was used for the data transformation process
 - Created Charts for each pivot tables.
 - Added slicers for the data filtering.
 - Created columns to further aid in analysis.
+
+# Questions Explored
+
+This was simply based on the problem statement and concern of the Call center on determing calling patterns: 
+
+- Number of in-bound calls.
+- The reason for the calls.
+- Sentiments behind the calls.
+- Which state or region made the most frequent calls.
+- What particular call center area recieved the most calls.
+- Method of contact by customers.
+- What call center received the most calls.
+- The caller sentiments behind these calls.
+
+# Insights and Recommendations
 
