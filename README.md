@@ -1,6 +1,6 @@
 # CALL-CENTER-ANALYSIS-AND-DASHBOARD-USING-EXCEL
 
-TThis project and the data used was part of a case study aimed at deriving insights and to showcase the overall performance of a call center for the month of October 2020. In order to gain insights into their customer call habits, regions of frequent calls and potential areas for improvement in service delivery and overall call center experience.
+TThis project and the data used was part of a case study aimed at deriving insights and to showcase the overall performance of a call center for the month of October 2020, for four states in the United States. (Los Angeles, Chicago, Baltimore and Denever) In order to gain insights into their customer call habits, regions of frequent calls and potential areas for improvement in service delivery and overall call center experience.
 
 # Table of Contents
 - [Preview of the Excel dashboard](#preview-of-the-excel-dashboard)
@@ -64,3 +64,11 @@ This was simply based on the problem statement and concern of the Call center on
 
 # Insights and Recommendations
 
+From the data obtained from the call center and after analysis, it can be observed that most of the calls received by the call centers was centered around billing issues, as 23,462 calls was received, hence the call center has to focus more on resolving billing issues, either through customer engagement or staff training.
+
+Total in-bound calls was 10,639 via call centers, next was Chatbot with 8,256. It would be advised here that the call center concentrates more on Chatbot responses as it generated 25%, the highest traffic based on the data given and analysis observed next was customer inquiries via E-mail with 23% and a total of 7,740 mails.
+
+The call centers in Los Angeles received the highest percentage of calls and customer engagement via call center, chatbot, e-mails and web. It was recommended that more efforts be put in place in Los Angeles, as it had 13,734 total calls as against the total customer engagement of 32,941. 
+
+Baltimore ranked second as observed after the analysis with a total of 11,021 for chatbot, emails, web and call centers.
+Los Angeles and Baltimore should be states for concentration by the call center as they receive more calls based on billing issues and sentiments involving turnaround time.
