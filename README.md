@@ -14,8 +14,7 @@ TThis project and the data used was part of a case study aimed at deriving insig
 - [nsights and Recommendations](#insights-and-recommendations)
 
 # Preview of the Excel dashboard
-
-![image](https://github.com/Nwarache/CALL-CENTER-ANALYSIS-AND-DASHBOARD-USING-EXCEL/assets/161589821/891887b1-a760-4417-940f-7e5ae449a0b3)
+![image](https://github.com/Nwarache/CALL-CENTER-ANALYSIS-AND-DASHBOARD-USING-EXCEL/assets/161589821/b183dc98-94bd-4bc3-a41a-3d0d90b7c386)
 
 
 # Project Overview
